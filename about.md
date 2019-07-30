@@ -3,44 +3,70 @@ title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
+<p>
+A Research and Development Engineer in the field of wind energy. Building simulation models of wind turbines and their subsystems.
+</p>
+<p>
+Passionate about engineering and technology. Trying to learn everyday at least one new thing in my field and another new thing about anything else.
+</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<h2>Skills</h2>
+### Professional Career and Internships
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+<table border="0">
+  <tr>
+    <td>Jun 2018 - Present</td>
+	<td><b>Research and Development Engineer</b></td>
+  </tr>
+  <tr>
+	<td></td>
+    <td><b>MesH Engineering GmbH</b>, Stuttgart, Germany</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Worked on:<ul><li>Building simulation models of wind turbines and their subsystems</li><li>Development of an optimization tool for fine tuning of damping in mechanical systems to help define the required dynamic behavior</li><li>Development of control systems of wind turbines</li><li>Tools: Simpack, AeroDyn, ANSYS, Matlab, Simulink</li></ul></td>  
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dec 2017 - Mar 2018</td>
+	<td><b>Intern</b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><b>Roland Ruegenberg GmbH</b>, Bad Sobernheim, Germany</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Worked on:<ul><li>Design and simulation (static and dynamic) of a folding press machine</li><li>Tools: ANSYS Mechanical</li></ul></td>  
+  </tr>
+</table>
 
-<h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+### Education
+
+2015-2018|<b>Master of Science</b>|
+------------|-------------------------|
+------------|<b>University of Stuttgart, Germany</b>|
+
+
+Specialized in:
+- Computational mechanics of structures
+- Finite element methods
+- Multibody Dynamics
+- Scientific Computing
+
+
+2014|<b>Bachelor of Science in Mechanical Engineering</b>|
+------------|-------------------------|
+------------|<b>Ain Shams University, Egypt</b>|
+
+Ranked 2nd best student.
+
+
+
+
+
