@@ -3,7 +3,7 @@ title: Resume
 layout: page
 description: Omar Kamel Resume CV Wind Energy Finite Element Method
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }} =150x150)
+![Profile Image]({{ site.url }}/{{ site.picture }}){:height="200px" width="200px"}
 
 #### Technical Interests:
 - Multibody Dynamics
