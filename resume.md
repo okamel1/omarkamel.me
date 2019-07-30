@@ -1,6 +1,7 @@
 ---
-title: About
+title: Resume
 layout: page
+description: Omar Kamel Resume CV Wind Energy Finite Element Method
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
@@ -13,14 +14,16 @@ Technical Interests:
 - Aeroservoelasticity
 - Wind Energy
 - Machine Learning
+- Optimization
 
-| **Jun 2018 - Present**  | **Research and Development Engineer**                                                                                             |                          |
+
 |-------------------------|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| **Jun 2018 - Present**  | **Research and Development Engineer**                                                                                             |                          |
 |                         | **Mesh Engineering GmbH**                                                                                                         | Stuttgart, Germany       |
 | Worked on:              | Building simulation models of wind turbines and their subsystems                                                                  |                          |
 |                         | Development of an optimization tool for fine tuning of damping in mechanical systems to help define the required dynamic behavior |                          |
 |                         | Development of control systems of wind turbines                                                                                   |                          |
-| Tools:                  | Simpack, AeroDyn, ANSYS, Matlab, Simulink                                                                                         |                          |
+| Tools:                  | Simpack, ANSYS, AeroDyn, Matlab, Simulink                                                                                         |                          |
 |                         |                                                                                                                                   |                          |
 | **Dec 2017 - Mar 2018** | **Intern**                                                                                                                        |                          |
 |                         | **Roland Ruegenberg GmbH**                                                                                                        | Bad Sobernheim, Germany  |
@@ -42,12 +45,14 @@ Technical Interests:
 |                         |                                                                                                                                   |                          |
 | **Jun 2011 - Aug 2011** | **Intern**                                                                                                                        |                          |
 |                         | **thyssenkrupp Industrial Solutions**                                                                                             | Egypt                    |                                                                                                                                                                                         |                                                                                                                                                 |
+{:.wide}
 
 
 ### Education
 
-| **2015 - 2018** | **Master of Science**                                                   |                    |
+
 |-----------------|-------------------------------------------------------------------------|--------------------|
+| **2015 - 2018** | **Master of Science**                                                   |                    |
 |                 | **University of Stuttgart**                                             | Stuttgart, Germany |
 | Specialized in: | Computational mechanics of structures                                   |                    |
 |                 | Finite element method                                                   |                    |
@@ -58,30 +63,31 @@ Technical Interests:
 | **2010 - 2014** | **Bachelor of Science in Mechanical Engineering**                       |                    |
 |                 | **Ain Shams University**                                                | Egypt              |
 | Awards:         | Scholarship of top students for 5 years, 2nd Best Student in department | :trophy:           |
-
+{:.wide}
 
 
 ### Software Tools:
 
-| ANSYS        | :star: :star: :star: :star:  |
-|--------------|------------------------------|
-| Simpack      | :star: :star: :star: :star:  |
-| Matlab       | :star: :star: :star: :star:  |
-| Maple        | :star: :star: :star: :star:  |
-| MathCAD      | :star: :star: :star: :star:  |
-| Simulink     | :star: :star: :star:         |
-| Python       | :star: :star: :star: :star:  |
-| Solidworks   | :star: :star: :star: :star:  |
-| AutoCAD      | :star: :star: :star:         |
-| C++          | :star: :star: :star:         |
-| C#           | :star: :star: :star:         |
-| Visual Basic | :star: :star: :star:         |
-| LaTeX        | :star: :star: :star: :star:  |
-| modeFrontier | :star: :star: :star:         |
-| PAM-CRASH    | :star: :star:                |
-| Star-CCM+    | :star: :star:                |
-
+|--------------|---------------------------|
+| ANSYS        | :star::star::star::star:  |
+| Simpack      | :star::star::star::star:  |
+| Matlab       | :star::star::star::star:  |
+| Maple        | :star::star::star::star:  |
+| MathCAD      | :star::star::star::star:  |
+| Simulink     | :star::star::star:        |
+| Python       | :star::star::star::star:  |
+| Solidworks   | :star::star::star::star:  |
+| AutoCAD      | :star::star::star:        |
+| C++          | :star::star::star:        |
+| C#           | :star::star::star:        |
+| Visual Basic | :star::star::star:        |
+| LaTeX        | :star::star::star::star:  |
+| modeFrontier | :star::star::star:        |
+| PAM-CRASH    | :star::star:              |
+| Star-CCM+    | :star::star:              |
+{:.wide}
 
 ### Others
 - [Wind Energy](https://www.coursera.org/account/accomplishments/verify/YV466HVSFW2U): Online Coursera Course
+
 
