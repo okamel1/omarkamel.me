@@ -14,7 +14,7 @@ picture: assets/images/pp_noframe.png
 # and specify source (external or local).
 resume: false
 # resume-external: true
-resume-url: resume
+# resume-url: resume
 
 url: https://omarkamel.me
 # your url: http://USERNAME.github.io
