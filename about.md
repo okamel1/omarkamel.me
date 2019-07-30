@@ -14,36 +14,14 @@ Passionate about engineering and technology. Trying to learn everyday at least o
 
 ### Professional Career and Internships
 
-<table border="0">
-  <tr>
-    <td>Jun 2018 - Present</td>
-	<td><b>Research and Development Engineer</b></td>
-  </tr>
-  <tr>
-	<td></td>
-    <td><b>MesH Engineering GmbH</b>, Stuttgart, Germany</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Worked on:<ul><li>Building simulation models of wind turbines and their subsystems</li><li>Development of an optimization tool for fine tuning of damping in mechanical systems to help define the required dynamic behavior</li><li>Development of control systems of wind turbines</li><li>Tools: Simpack, AeroDyn, ANSYS, Matlab, Simulink</li></ul></td>  
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Dec 2017 - Mar 2018</td>
-	<td><b>Intern</b></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><b>Roland Ruegenberg GmbH</b>, Bad Sobernheim, Germany</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Worked on:<ul><li>Design and simulation (static and dynamic) of a folding press machine</li><li>Tools: ANSYS Mechanical</li></ul></td>  
-  </tr>
-</table>
+| <b>Jun 2018 - Present</b>  | <b>Research and Development Engineer</b>                                                                                                                                                                                                                                                                                                      |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                            | <b>MesH Engineering GmbH</b>, Stuttgart, Germany                                                                                                                                                                                                                                                                                              |
+| Worked on:                 | <ul><li>Building simulation models of wind turbines and their subsystems</li><li>Development of an optimization tool for fine tuning of damping in mechanical systems to help define the required dynamic behavior</li><li>Development of control systems of wind turbines</li><li>Tools: Simpack, AeroDyn, ANSYS, Matlab, Simulink</li></ul> |
+|                            |                                                                                                                                                                                                                                                                                                                                               |
+| <b>Dec 2017 - Mar 2018</b> | <b>Intern</b>                                                                                                                                                                                                                                                                                                                                 |
+|                            | Roland Ruegenberg GmbH, Bad Sobernheim, Germany                                                                                                                                                                                                                                                                                               |
+| Worked on:                 | <ul><li>Design and simulation (static and dynamic) of a folding press machine</li><li>Tools: ANSYS Mechanical, Catia, Solidworks</li></ul>                                                                                                                                                                                                    |                                                                                                                                                 |
 
 
 ### Education
