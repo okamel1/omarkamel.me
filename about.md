@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computational Mechanics, Multibody Dynamics, Optimization, Machine Learning, Aeroservoelasticity, Wind Turbine, Stuttgart, Germany, ANSYS, Simpack
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 <p>
