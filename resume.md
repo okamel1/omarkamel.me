@@ -47,21 +47,41 @@ description: Omar Kamel Resume CV Wind Energy Finite Element Method
 {:.wide}
 
 
+#### Student Research Assistantships
+
+|-----------------------------|-------------------------------------------------------|--------------------|
+| **2016 - 2018 (12 Months)** | **Student Research Assistant**                        | Stuttgart, Germany |
+|                             | **Chair of Wind Energy (SWE)**                        |                    |
+|                             | University of Stuttgart                               |                    |
+| Tools:                      | - Simpack, ANSYS Mechanical, Matlab                   |                    |
+|                             |                                                       |                    |
+| **Apr 2018 - May 2018**     | **Student Research Assistant**                        |                    |
+|                             | **Institute of Machine Tools**                        |                    |
+|                             | University of Stuttgart                               |                    |
+| Tools:                      | ANSYS Maxwell (Electromagnetics)                      |                    |
+|                             |                                                       |                    |
+| **Aug 2016 - Mar 2017**     | **Student Research Assistant**                        |                    |
+|                             | **Institute of Control Engineering of Machine Tools** |                    |
+|                             | University of Stuttgart                               |                    |
+| Tools:                      | ANSYS Mechanical, Matlab                              |                    |
+{:.wide}
+
 #### Education
 
 
 |-----------------|-------------------------------------------------------------------------|--------------------|
 | **2015 - 2018** | **Master of Science**                                                   |                    |
 |                 | **University of Stuttgart**                                             | Stuttgart, Germany |
-| Specialized in: | - Computational mechanics of structures                                   |                    |
-|                 | - Finite element method                                                   |                    |
-|                 | - Multibody Dynamics                                                      |                    |
-|                 | - Scientific Computing                                                    |                    |
-| Awards:         | - Hilti-COMMAS Scholarship                                                | :trophy:           |
+| Specialized in: | - Computational mechanics of structures                                 |                    |
+|                 | - Finite element method                                                 |                    |
+|                 | - Multibody Dynamics                                                    |                    |
+|                 | - Scientific Computing                                                  |                    |
+| Awards:         | - Hilti-COMMAS Scholarship                                              | :trophy:           |
 |                 |                                                                         |                    |
 | **2010 - 2014** | **Bachelor of Science in Mechanical Engineering**                       |                    |
 |                 | **Ain Shams University**                                                | Egypt              |
-| Awards:         | - Scholarship of top students for 5 years, 2nd Best Student in department | :trophy:           |
+| Awards:         | - Scholarship of top students for 5 years                               | :trophy:           |
+|                 | - 2nd Best Student in department                                        |                    |
 {:.wide}
 
 
@@ -84,6 +104,15 @@ description: Omar Kamel Resume CV Wind Energy Finite Element Method
 | modeFrontier | :black_circle::black_circle::black_circle::white_circle::white_circle:  |
 | PAM-CRASH    | :black_circle::black_circle::white_circle::white_circle::white_circle:  |
 | Star-CCM+    | :black_circle::black_circle::white_circle::white_circle::white_circle:  |
+{:.wide}
+
+
+#### Languages:
+
+|---------|------------------------------------------------------------------------|
+| Arabic  | :black_circle::black_circle::black_circle::black_circle::black_circle: |
+| English | :black_circle::black_circle::black_circle::black_circle::white_circle: |
+| German  | :black_circle::black_circle::black_circle::black_circle::white_circle: |
 {:.wide}
 
 #### Others
