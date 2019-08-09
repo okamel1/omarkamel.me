@@ -1,6 +1,6 @@
 # main text of home
 name: Omar Kamel
-bio: Engineer. And sometimes thinker
+bio: Not only an engineer
 
 # twitter summary info
 description: Engineering .. and some other thoughts
@@ -69,7 +69,7 @@ authors:
     
     omarkamel:
         name: Omar Kamel
-        bio: Engineer. But sometimes Thinker
+        bio: Not only an engineer
         external-image: false
         picture: assets/images/pp.png
         # twitter: johndoe
