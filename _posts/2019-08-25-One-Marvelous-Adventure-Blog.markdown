@@ -21,7 +21,7 @@ It started on a sunny Saturday, spending the weekend with a friend in Friedrichs
 ### Ascent
 
 We took the car, drove for 30-40 mins crossing the borders to Bregenz, parking near the cable car station of [Pfänderbahn](https://www.pfaenderbahn.at/en/pfaenderbahn). Then we rode the cable car up to [Pfänder Station uphill](https://goo.gl/maps/d9iGzq4F7vYHgAaT8).
-![Cable Car](assets/images/hike/IMG-3627.JPG)
+![Cable Car](../assets/images/hike/IMG-3627.JPG)
 
 The adventure starts now!
 
@@ -33,7 +33,7 @@ We started walking, very excited, feeling fresh. The weather is more than awesom
 
 The route seemed to be around 13 km, but unfortunately we didn't know that before we started!
 
-![Route](assets/images/hike/route.PNG)
+![Route](../assets/images/hike/route.PNG)
 
 We passed by really awesome places, farms that sell dairy products especially the famous cheese Bergkäse (mountain cheese) so we planned to buy some homemade cheese on our way down (should be less than two hours from now).
 
@@ -41,7 +41,7 @@ Finally, we reached our destination: [Hirschberg](https://goo.gl/maps/LfBQS8kWZ4
 
 Have a look:
 
-![Route](assets/images/hike/IMG-3629.JPG)
+![Route](../assets/images/hike/IMG-3629.JPG)
 
 We relaxed for a while, ate some energy bars and drank hell lot of water, then started the return trip. We have around 2 hrs till dawn, we can do it, or we think so!
 
@@ -62,6 +62,6 @@ We waited till the other hikers arrived to our crossroads and asked them about t
 
 They left us in the middle of the way down as they lived in one of the mountain houses, so we had another nearly half hour till the foothill.
 
-Finally we arrived at the parking at 22:30, nearly one and half hour after sunset with sore muscles, delay of around 3 hours and with hell lot of stress!
+Finally we arrived at the parking at 22:30, with 27 km of hiking, starting elevation was 400m then reaching 1200m, nearly one and half hour after sunset with sore muscles, delay of around 3 hours and with hell lot of stress!
 
 But was really fun and exciting trip!
