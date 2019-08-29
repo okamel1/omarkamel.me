@@ -7,12 +7,13 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 
 #### Technical Interests:
 - Multibody Dynamics
-- Computational Structual Mechanics
+- Computational Structural Mechanics
 - Finite Element Method
 - Aeroservoelasticity
 - Wind Energy
 - Machine Learning
 - Optimization
+- Material Modeling
 
 #### Professional Career and Internships
 
@@ -21,6 +22,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 |                         | **Mesh Engineering GmbH**                                                                                                         | Stuttgart, Germany       |
 | Worked on:              | - Building simulation models of wind turbines and their subsystems                                                                  |                          |
 |                         | - Development of an optimization tool for fine tuning of damping in mechanical systems to help define the required dynamic behavior |                          |
+|                         | - Finite elements simulations of complex machines and mechanisms including structural and material non linearities				  |                          |
 |                         | - Development of control systems of wind turbines                                                                                   |                          |
 | Tools:                  | - Simpack, ANSYS, AeroDyn, Matlab, Simulink                                                                                         |                          |
 |                         |                                                                                                                                   |                          |
@@ -104,6 +106,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 | modeFrontier | :black_circle::black_circle::black_circle::white_circle::white_circle:  |
 | PAM-CRASH    | :black_circle::black_circle::white_circle::white_circle::white_circle:  |
 | Star-CCM+    | :black_circle::black_circle::white_circle::white_circle::white_circle:  |
+| MSC Marc     | :black_circle::black_circle::white_circle::white_circle::white_circle:  |
 {:.wide}
 
 
