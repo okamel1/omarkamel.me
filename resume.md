@@ -1,7 +1,7 @@
 ---
 title: Resume
 layout: page
-description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computational Mechanics, Multibody Dynamics, Optimization, Machine Learning, Aeroservoelasticity, Wind Turbine, Stuttgart, Germany, ANSYS, Simpack
+description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computational Mechanics, Multibody Dynamics, Optimization, Machine Learning, Aeroservoelasticity, Wind Turbine, Stuttgart, Germany, ANSYS, Simpack, Digital Twins, Digitalization
 ---
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}){:height="200px" width="200px"} -->
 
@@ -14,6 +14,8 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 - Machine Learning
 - Optimization
 - Material Modeling
+- Digitalization
+- Digital Twins
 
 #### Professional Career and Internships
 
@@ -21,10 +23,10 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 | **Jun 2018 - Present**  | **Research and Development Engineer**                                                                                             |                          |
 |                         | **Mesh Engineering GmbH**                                                                                                         | Stuttgart, Germany       |
 | Worked on:              | - Building simulation models of wind turbines and their subsystems                                                                  |                          |
-|                         | - Development of an optimization tool for fine tuning of damping in mechanical systems to help define the required dynamic behavior |                          |
 |                         | - Finite elements simulations of complex machines and mechanisms including structural and material non linearities				  |                          |
 |                         | - Development of control systems of wind turbines                                                                                   |                          |
-| Tools:                  | - Simpack, ANSYS, AeroDyn, Matlab, Simulink                                                                                         |                          |
+|                         | - Preparation of proposals and plans of research projects                                                                                    |                          |
+| Tools:                  | - Simpack, ANSYS, Matlab, Simulink                                                                                         |                          |
 |                         |                                                                                                                                   |                          |
 | **Dec 2017 - Mar 2018** | **Intern**                                                                                                                        |                          |
 |                         | **Roland Ruegenberg GmbH**                                                                                                        | Bad Sobernheim, Germany  |

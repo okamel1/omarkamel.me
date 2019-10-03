@@ -8,7 +8,10 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 A Research and Development Engineer in the field of wind energy. Building simulation models of wind turbines and their subsystems.
 </p>
 <p>
-Passionate about engineering and technology. Committed to learn everyday at least one new thing in my field and another new thing about anything else.
+Expanding my career to the field of digitalization of energy systems and their digital twins
+</p>
+<p>
+Passionate about engineering and technology. Committed to learn everyday at least one new thing in my field and another new thing about culture and history.
 </p>
 
 

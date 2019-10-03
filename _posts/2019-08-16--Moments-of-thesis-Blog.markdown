@@ -1,7 +1,7 @@
 ---
 title: "Moments of a thesis"
 layout: post
-date: 2019-08-09 22:00
+date: 2019-08-16 22:00
 tag:
 - blog
 - thoughts
