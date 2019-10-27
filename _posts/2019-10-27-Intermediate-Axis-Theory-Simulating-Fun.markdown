@@ -10,7 +10,7 @@ tag:
 - simpack
 - mechanics
 - dynamics
-category: projects
+category: project
 author: omarkamel
 description: Engineering
 ---
