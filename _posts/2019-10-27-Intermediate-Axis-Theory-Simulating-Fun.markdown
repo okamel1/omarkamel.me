@@ -42,3 +42,6 @@ After that, I went to my favorite dynamics simulation software, built a very sim
 #### Here is my simulation:
 
 [![Simulation](http://img.youtube.com/vi/lXb3ic10ENc/0.jpg)](http://www.youtube.com/watch?v=lXb3ic10ENc "Here is the simulation")
+
+
+So the simulation is able to capture this mathematical beauty (or instability, call it whatever you want).
