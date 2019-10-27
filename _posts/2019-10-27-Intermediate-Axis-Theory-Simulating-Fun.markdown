@@ -13,10 +13,11 @@ tag:
 category: project
 author: omarkamel
 description: Engineering
+projects: true
 ---
 
 While wandering around youtube, I ran into this video: 
-[![Physics](http://img.youtube.com/vi/lXb3ic10ENc/0.jpg)](http://www.youtube.com/watch?v=lXb3ic10ENc "The Bizarre Behavior of Rotating Bodies, Explained")
+[![The Bizarre Behavior of Rotating Bodies, Explained](http://img.youtube.com/vi/1VPfZ_XzisU/0.jpg)](http://www.youtube.com/watch?v=1VPfZ_XzisU "The Bizarre Behavior of Rotating Bodies, Explained")
 
 So I asked myself a lot of questions, one of those was: ***can we capture this phenomenon in simulation?***. To answer this question, I had to understand more about the physics of the problem, to know whether it is due to imperfections, or it occurs because of a mathematical error in nature :nerd_face:
 
