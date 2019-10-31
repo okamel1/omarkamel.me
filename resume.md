@@ -20,7 +20,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 #### Professional Career and Internships
 
 |-------------------------|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| <div style="width:150px"> **Jun 2018 - Present**</div>  | <div style="width:300px">**Research and Development Engineer**                                                                                             |                          |
+| **Jun 2018 - Present**  | **Research and Development Engineer**                                                                                             |                          |
 |                         | **Mesh Engineering GmbH**                                                                                                         | Stuttgart, Germany       |
 | Worked on:              | - Building simulation models of wind turbines and their subsystems                                                                  |                          |
 |                         | - Finite elements simulations of complex machines and mechanisms including structural and material non linearities				  |                          |
@@ -54,7 +54,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 #### Student Research Assistantships
 
 |-----------------------------|-------------------------------------------------------|--------------------|
-| <div style="width:150px">**2016 - 2018 (12 Months)**</div> | <div style="width:300px">**Student Research Assistant**</div>                   | Stuttgart, Germany |
+| **2016 - 2018 (12 Months)** | **Student Research Assistant**                   | Stuttgart, Germany |
 |                             | **Chair of Wind Energy (SWE)**                        |                    |
 |                             | University of Stuttgart                               |                    |
 | Tools:                      | - Simpack, ANSYS Mechanical, Matlab                   |                    |
@@ -74,7 +74,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 
 
 |-----------------|-------------------------------------------------------------------------|--------------------|
-| <div style="width:150px">**2015 - 2018**</div>| <div style="width:300px">**Master of Science**  </div>                                                 |                    |
+| **2015 - 2018** | **Master of Science**                                                   |                    |
 |                 | **University of Stuttgart**                                             | Stuttgart, Germany |
 | Specialized in: | - Computational mechanics of structures                                 |                    |
 |                 | - Finite element method                                                 |                    |
@@ -92,7 +92,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 #### Software Tools:
 
 |--------------|-------------------------------------------------------------------------|
-| <div style="width:150px">ANSYS Mechanical</div>      | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
+| ANSYS Mechanical      | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
 | Simpack      | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
 | Matlab       | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
 | Maple        | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
@@ -115,7 +115,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 #### Languages:
 
 |---------|------------------------------------------------------------------------|
-| <div style="width:150px">Arabic</div>  | :black_circle::black_circle::black_circle::black_circle::black_circle: |
+| Arabic  | :black_circle::black_circle::black_circle::black_circle::black_circle: |
 | English | :black_circle::black_circle::black_circle::black_circle::white_circle: |
 | German  | :black_circle::black_circle::black_circle::black_circle::white_circle: |
 {:.wide}
