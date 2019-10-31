@@ -17,12 +17,6 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 - Digitalization
 - Digital Twins
 
-<style>
-table {
-    width:100%;
-}
-</style>
-
 #### Professional Career and Internships
 
 |-------------------------|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------|
