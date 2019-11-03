@@ -17,8 +17,8 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 - Digitalization
 - Digital Twins
 
-#### Professional Career and Internships
-
+|-----------------|-------------------------------------------------------------------------|--------------------|
+|#### Professional Career and Internships|-------------------------------------------------------------------------|--------------------|
 |-------------------------|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------|
 | **Jun 2018 - Present**  | **Research and Development Engineer**                                                                                             |                          |
 |                         | **Mesh Engineering GmbH**                                                                                                         | Stuttgart, Germany       |
@@ -48,11 +48,8 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 |                         |                                                                                                                                   |                          |
 | **Jun 2011 - Aug 2011** | **Intern**                                                                                                                        |                          |
 |                         | **thyssenkrupp Industrial Solutions**                                                                                             | Egypt                    |                                                                                                                                                                                         |                                                                                                                                                 |
-{:.wide}
-
-
-#### Student Research Assistantships
-
+|-----------------|-------------------------------------------------------------------------|--------------------|
+|#### Student Research Assistantships|-------------------------------------------------------------------------|--------------------|
 |-----------------------------|-------------------------------------------------------|--------------------|
 | **2016 - 2018 (12 Months)** | **Student Research Assistant**                   | Stuttgart, Germany |
 |                             | **Chair of Wind Energy (SWE)**                        |                    |
@@ -68,11 +65,8 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 |                             | **Institute of Control Engineering of Machine Tools** |                    |
 |                             | University of Stuttgart                               |                    |
 | Tools:                      | ANSYS Mechanical, Matlab                              |                    |
-{:.wide}
-
-#### Education
-
-
+|-----------------|-------------------------------------------------------------------------|--------------------|
+|#### Education|-------------------------------------------------------------------------|--------------------|
 |-----------------|-------------------------------------------------------------------------|--------------------|
 | **2015 - 2018** | **Master of Science**                                                   |                    |
 |                 | **University of Stuttgart**                                             | Stuttgart, Germany |
@@ -86,38 +80,32 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 |                 | **Ain Shams University**                                                | Egypt              |
 | Awards:         | - Scholarship of top students for 5 years                               | :trophy:           |
 |                 | - 2nd Best Student in department                                        |                    |
-{:.wide}
-
-
-#### Software Tools:
-
-|--------------|-------------------------------------------------------------------------|
-| ANSYS Mechanical      | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
-| Simpack      | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
-| Matlab       | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
-| Maple        | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
-| MathCAD      | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
-| Simulink     | :black_circle::black_circle::black_circle::white_circle::white_circle:  |
-| Python       | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
-| Solidworks   | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
-| AutoCAD      | :black_circle::black_circle::black_circle::white_circle::white_circle:  |
-| C++          | :black_circle::black_circle::black_circle::white_circle::white_circle:  |
-| C#           | :black_circle::black_circle::black_circle::white_circle::white_circle:  |
-| Visual Basic | :black_circle::black_circle::black_circle::white_circle::white_circle:  |
-| LaTeX        | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
-| modeFrontier | :black_circle::black_circle::black_circle::white_circle::white_circle:  |
-| PAM-CRASH    | :black_circle::black_circle::white_circle::white_circle::white_circle:  |
-| Star-CCM+    | :black_circle::black_circle::white_circle::white_circle::white_circle:  |
-| MSC Marc     | :black_circle::black_circle::white_circle::white_circle::white_circle:  |
-{:.wide}
-
-
-#### Languages:
-
-|---------|------------------------------------------------------------------------|
-| Arabic  | :black_circle::black_circle::black_circle::black_circle::black_circle: |
-| English | :black_circle::black_circle::black_circle::black_circle::white_circle: |
-| German  | :black_circle::black_circle::black_circle::black_circle::white_circle: |
+|-----------------|-------------------------------------------------------------------------|--------------------|
+|#### Software Tools:|----------------------------------------------------------------------|--------------------|
+|--------------|----------------------------------------------------------------------------|--------------------|
+| ANSYS Mechanical      | :black_circle::black_circle::black_circle::black_circle::white_circle:  |--------------|
+| Simpack      | :black_circle::black_circle::black_circle::black_circle::white_circle:  |-----------------------|
+| Matlab       | :black_circle::black_circle::black_circle::black_circle::white_circle:  |-----------------------|
+| Maple        | :black_circle::black_circle::black_circle::black_circle::white_circle:  |-----------------------|
+| MathCAD      | :black_circle::black_circle::black_circle::black_circle::white_circle:  |-----------------------|
+| Simulink     | :black_circle::black_circle::black_circle::white_circle::white_circle:  |-----------------------|
+| Python       | :black_circle::black_circle::black_circle::black_circle::white_circle:  |-----------------------|
+| Solidworks   | :black_circle::black_circle::black_circle::black_circle::white_circle:  |-----------------------|
+| AutoCAD      | :black_circle::black_circle::black_circle::white_circle::white_circle:  |-----------------------|
+| C++          | :black_circle::black_circle::black_circle::white_circle::white_circle:  |-----------------------|
+| C#           | :black_circle::black_circle::black_circle::white_circle::white_circle:  |-----------------------|
+| Visual Basic | :black_circle::black_circle::black_circle::white_circle::white_circle:  |-----------------------|
+| LaTeX        | :black_circle::black_circle::black_circle::black_circle::white_circle:  |-----------------------|
+| modeFrontier | :black_circle::black_circle::black_circle::white_circle::white_circle:  |-----------------------|
+| PAM-CRASH    | :black_circle::black_circle::white_circle::white_circle::white_circle:  |-----------------------|
+| Star-CCM+    | :black_circle::black_circle::white_circle::white_circle::white_circle:  |-----------------------|
+| MSC Marc     | :black_circle::black_circle::white_circle::white_circle::white_circle:  |-----------------------|
+|---------|------------------------------------------------------------------------|-----|
+|#### Languages:|--------------------------------------------------------------|---------|
+|---------|------------------------------------------------------------------------|-----|
+| Arabic  | :black_circle::black_circle::black_circle::black_circle::black_circle: |-----|
+| English | :black_circle::black_circle::black_circle::black_circle::white_circle: |-----|
+| German  | :black_circle::black_circle::black_circle::black_circle::white_circle: |-----|
 {:.wide}
 
 #### Others

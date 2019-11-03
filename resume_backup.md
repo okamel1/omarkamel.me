@@ -54,7 +54,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 #### Student Research Assistantships
 
 |-----------------------------|-------------------------------------------------------|--------------------|
-| **2016 - 2018 (12 Months)** | **Student Research Assistant**                        | Stuttgart, Germany |
+| **2016 - 2018 (12 Months)** | **Student Research Assistant**                   | Stuttgart, Germany |
 |                             | **Chair of Wind Energy (SWE)**                        |                    |
 |                             | University of Stuttgart                               |                    |
 | Tools:                      | - Simpack, ANSYS Mechanical, Matlab                   |                    |
@@ -92,7 +92,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 #### Software Tools:
 
 |--------------|-------------------------------------------------------------------------|
-| ANSYS        | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
+| ANSYS Mechanical      | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
 | Simpack      | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
 | Matlab       | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
 | Maple        | :black_circle::black_circle::black_circle::black_circle::white_circle:  |
