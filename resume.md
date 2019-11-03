@@ -18,7 +18,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 - Digital Twins
 
 |-----------------|-------------------------------------------------------------------------|--------------------|
-|#### Professional Career and Internships| | |
+|**Professional Career and Internships**|
 |                         |                |    |
 | **Jun 2018 - Present**  | **Research and Development Engineer**                                                                                             |                          |
 |                         | **Mesh Engineering GmbH**                                                                                                         | Stuttgart, Germany       |
@@ -49,7 +49,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 | **Jun 2011 - Aug 2011** | **Intern**                                                                                                                        |                          |
 |                         | **thyssenkrupp Industrial Solutions**                                                                                             | Egypt                    |                                                                                                                                                                                         |                                                                                                                                                 |
 |                         |                |    |
-|#### Student Research Assistantships| | |
+|**Student Research Assistantships**|
 |                         |                |    |
 | **2016 - 2018 (12 Months)** | **Student Research Assistant**                   | Stuttgart, Germany |
 |                             | **Chair of Wind Energy (SWE)**                        |                    |
@@ -66,7 +66,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 |                             | University of Stuttgart                               |                    |
 | Tools:                      | ANSYS Mechanical, Matlab                              |                    |
 |                         |                |    |
-|#### Education| | |
+**Education**|
 |                         |                |    |
 | **2015 - 2018** | **Master of Science**                                                   |                    |
 |                 | **University of Stuttgart**                                             | Stuttgart, Germany |
@@ -81,7 +81,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 | Awards:         | - Scholarship of top students for 5 years                               | :trophy:           |
 |                 | - 2nd Best Student in department                                        |                    |
 |                         |                |    |
-|#### Software Tools:| | |
+|**Software Tools**|
 ||||
 | ANSYS Mechanical      | :black_circle::black_circle::black_circle::black_circle::white_circle:  ||
 | Simpack      | :black_circle::black_circle::black_circle::black_circle::white_circle:  ||
@@ -101,12 +101,12 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 | Star-CCM+    | :black_circle::black_circle::white_circle::white_circle::white_circle:  ||
 | MSC Marc     | :black_circle::black_circle::white_circle::white_circle::white_circle:  ||
 | | | |
-|#### Languages:| | |
+|**Languages**|
 | | | |
 | Arabic  | :black_circle::black_circle::black_circle::black_circle::black_circle: | |
 | English | :black_circle::black_circle::black_circle::black_circle::white_circle: | |
 | German  | :black_circle::black_circle::black_circle::black_circle::white_circle: | |
 {:.wide}
 
-#### Others
+**Others**
 - [Wind Energy](https://www.coursera.org/account/accomplishments/verify/YV466HVSFW2U): Online Coursera Course
