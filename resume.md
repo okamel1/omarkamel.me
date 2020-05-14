@@ -446,19 +446,6 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td>:black_circle::black_circle::black_circle::black_circle::white_circle:</td>
 <td></td>
 </tr>
-<tr>
-<td>
-<h4>Others</h4>
-</td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td> <--! here
-<td></td>
-</tr>
 </tbody>
 
 </table>
