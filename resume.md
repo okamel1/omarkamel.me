@@ -7,16 +7,17 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 {::options parse_block_html="true" /}
 
 #### Technical Interests:
-- Multibody Dynamics
-- Computational Structural Mechanics
-- Finite Element Method
-- Aeroservoelasticity
 - Wind Energy
+- Aeroservoelasticity
 - Machine Learning
 - Optimization
-- Material Modeling
+- System Identification
+- Reduced Order Modeling
 - Digitalization
 - Digital Twins
+- Multibody Dynamics
+- Finite Element Method
+- Computational Structural Mechanics
 
 <table>
 <thead>
