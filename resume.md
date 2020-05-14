@@ -331,6 +331,16 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td></td>
 </tr>
 <tr>
+<td><h4>Conference Presentations</h4></td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>CADFEM ANSYS Simulation Conference</td>
+<td>Low-Frequency Vibro-Acoustic Analysis of a Wind Turbine Considering the Tonality</td>
+<td>Kassel, 2019</td>
+</tr>
+<tr>
 <td><h4>Software Tools</h4></td>
 </tr>
 <tr>
