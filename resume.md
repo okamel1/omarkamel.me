@@ -32,7 +32,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 </tr>
 <tr>
 <td></td>
-<td><strong>Chair of Wind Energy</strong></td>
+<td><strong><a href="https://www.mw.tum.de/wind/home/">Chair of Wind Energy</a></strong></td>
 <td>Munich, Germany</td>
 </tr>
 <tr>
@@ -40,8 +40,11 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td><strong>Technical University of Munich</strong></td>
 <td></td>
 </tr>
-
-
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr>
 <td><strong>Jun 2018 - Present</strong></td>
 <td><strong>Research and Development Engineer</strong></td>
@@ -49,7 +52,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 </tr>
 <tr>
 <td></td>
-<td><strong>Mesh Engineering GmbH</strong></td>
+<td><strong><a href="https://www.mesh-engineering.de/index.php/en/">Mesh Engineering GmbH</a></strong></td>
 <td>Stuttgart, Germany</td>
 </tr>
 <tr>
