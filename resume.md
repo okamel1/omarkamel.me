@@ -28,7 +28,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <tbody>
 <tr>
 <td><strong>May 2020 - Present</strong></td>
-<td><strong>PhD Student</strong></td>
+<td><strong>PhD Candidate</strong></td>
 <td></td>
 </tr>
 <tr>
