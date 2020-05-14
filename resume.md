@@ -446,8 +446,19 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td>:black_circle::black_circle::black_circle::black_circle::white_circle:</td>
 <td></td>
 </tr>
-</tbody>
-</table>
-{:.wide}
+<tr>
+<td>
 <h4>Others</h4>
-- [Wind Energy](https://www.coursera.org/account/accomplishments/verify/YV466HVSFW2U): Online Coursera Course
+</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>[Wind Energy](https://www.coursera.org/account/accomplishments/verify/YV466HVSFW2U): Online Coursera Course</td>
+<td></td>
+</tr>
+</tbody>
+
+</table>
