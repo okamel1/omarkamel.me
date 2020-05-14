@@ -178,17 +178,6 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td>
 <h4>Student Research Assistantships</h4>
 </td>
-<<<<<<< HEAD
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-=======
-<td></td>
-<td></td>
-<td></td>
-<td></td>
->>>>>>> c905f81b790e3bc3554e8b45a5152064a2487ad6
 </tr>
 <tr>
 <td><strong>2016 - 2018 (12 Months)</strong></td>
@@ -269,17 +258,9 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td>
 <h4>Education</h4>
 </td>
-<<<<<<< HEAD
-=======
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
->>>>>>> c905f81b790e3bc3554e8b45a5152064a2487ad6
 </tr>
 <tr>
 <td><strong>2015 - 2018</strong></td>
@@ -342,35 +323,14 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td></td>
 </tr>
 <tr>
-<<<<<<< HEAD
 <td>
 <h4>Conference Presentations</h4>
 </td>
 </tr>
-  <tr>
-<td></td>
-</tr>
 <tr>
 <td></td>
 </tr>
-  <tr>
-=======
-<td></td>
-<td></td>
-<td></td>
-</tr>
-  <tr>
-<td>
-<h4>Conference Presentations</h4>
-</td>
-</tr>
-  <tr>
-<td></td>
-</tr>
 <tr>
-<td></td>
-</tr>
-  <tr>
 <td>CADFEM Ansys Simulation Conference</td>
 <td>Low-Frequency Vibro-Acoustic Analysis of a Wind Turbine Considering the Tonality </td>
  <td>Kassel, 2019</td>
