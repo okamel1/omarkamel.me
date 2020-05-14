@@ -21,7 +21,9 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <table>
 <thead>
 <tr>
-<th><h4>Professional Career and Internships</h4></th>
+<th>
+<h4>Professional Career and Internships</h4>
+</th>
 </tr>
 </thead>
 <tbody>
@@ -173,7 +175,9 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td></td>
 </tr>
 <tr>
-<td><h4>Student Research Assistantships</h4></td>
+<td>
+<h4>Student Research Assistantships</h4>
+</td>
 <td></td>
 <td></td>
 <td></td>
@@ -255,15 +259,9 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td></td>
 </tr>
 <tr>
-<td><h4>Education</h4></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
+<td>
+<h4>Education</h4>
+</td>
 </tr>
 <tr>
 <td><strong>2015 - 2018</strong></td>
@@ -326,12 +324,24 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>
+<h4>Conference Presentations</h4>
+</td>
+</tr>
+  <tr>
 <td></td>
 </tr>
 <tr>
-<td><h4>Software Tools</h4></td>
+<td></td>
+</tr>
+  <tr>
+<td>CADFEM Ansys Simulation Conference</td>
+<td>Low-Frequency Vibro-Acoustic Analysis of a Wind Turbine Considering the Tonality </td>
+ <td>Kassel, 2019</td>
+<tr>
+<td>
+<h4>Software Tools</h4>
+</td>
 </tr>
 <tr>
 <td></td>
@@ -413,7 +423,9 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td></td>
 </tr>
 <tr>
-<td><h4>Languages</h4></td>
+<td>
+<h4>Languages</h4>
+</td>
 </tr>
 <tr>
 <td></td>
@@ -440,9 +452,6 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 </tr>
 </tbody>
 </table>
-
 {:.wide}
-
 <h4>Others</h4>
-
 - [Wind Energy](https://www.coursera.org/account/accomplishments/verify/YV466HVSFW2U): Online Coursera Course
