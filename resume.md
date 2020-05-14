@@ -18,7 +18,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 - Digitalization
 - Digital Twins
 
-<table>
+<!--<table>
 <thead>
 <tr>
 <th>
@@ -461,4 +461,4 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 </tr>
 </tbody>
 
-</table>
+</table> -->
