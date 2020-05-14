@@ -26,6 +26,23 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 </thead>
 <tbody>
 <tr>
+<td><strong>May 2020 - Present</strong></td>
+<td><strong>PhD Student</strong></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Chair of Wind Energy</strong></td>
+<td>Munich, Germany</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Technical University of Munich</strong></td>
+<td></td>
+</tr>
+
+
+<tr>
 <td><strong>Jun 2018 - Present</strong></td>
 <td><strong>Research and Development Engineer</strong></td>
 <td></td>
