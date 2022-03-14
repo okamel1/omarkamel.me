@@ -362,6 +362,16 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td>Kassel, 2019</td>
 </tr>
 <tr>
+<td>16th EAWE PhD Seminar</td>
+<td>Digital Twin Development for Wind Turbine Drivetrains based on Multibody Systems</td>
+<td>Porto, Portugal, 2020 (Online event)</td>
+</tr>
+<tr>
+<td>Wind Energy Science Conference</td>
+<td>Reduced Order Modeling of Wind Turbine Drivetrains by Neural Networks</td>
+<td>Hannover, Germany, 2020 (Online event)</td>
+</tr>
+<tr>
 <td><h4>Software Tools</h4></td>
 </tr>
 <tr>
@@ -425,18 +435,6 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <tr>
 <td>modeFrontier</td>
 <td>:black_circle::black_circle::black_circle::white_circle::white_circle:</td>
-</tr>
-<tr>
-<td>PAM-CRASH</td>
-<td>:black_circle::black_circle::white_circle::white_circle::white_circle:</td>
-</tr>
-<tr>
-<td>Star-CCM+</td>
-<td>:black_circle::black_circle::white_circle::white_circle::white_circle:</td>
-</tr>
-<tr>
-<td>MSC Marc</td>
-<td>:black_circle::black_circle::white_circle::white_circle::white_circle:</td>
 </tr>
 <tr>
 <td></td>
