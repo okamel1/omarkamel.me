@@ -49,8 +49,10 @@ We relaxed for a while, ate some energy bars and drank hell lot of water, then s
 On our way down we followed the marks of the relatively easier tracks to make it down in the 2 hrs we have.
 On the first crossroads we chose the one path, which happened to be the wrong one. This is the first 0.5 hr loss!
 
+<!---
 I met this cool mountain friend, where we became friends in few seconds :heart_eyes_cat: 
 ![Cat Friend](../assets/images/hike/IMG-3638.JPG)
+--->
 
 We continued our way down, but the sun was much faster than us. We reached our start point 0.5 hour before sunset but we had a little problem, the cable car station was already closed, so we have to take the last 400m elevation walking down to Bregenz where we parked our car.
 
