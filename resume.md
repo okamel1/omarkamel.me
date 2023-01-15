@@ -20,11 +20,9 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 - Computational Structural Mechanics
 
 <table>
-<thead>
 <tr>
 <th><h4>Professional Career and Internships</h4></th>
 </tr>
-</thead>
 <tbody>
 <tr>
 <td><strong>May 2020 - Present</strong></td>
@@ -33,7 +31,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 </tr>
 <tr>
 <td></td>
-<td><strong><a href="https://www.mw.tum.de/wind/home/">Chair of Wind Energy</a></strong></td>
+<td><strong><a href="https://www.epe.ed.tum.de/wind/staff/omar-kamel/">Chair of Wind Energy</a></strong></td>
 <td>Munich, Germany</td>
 </tr>
 <tr>
@@ -58,12 +56,18 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 </tr>
 <tr>
 <td>Worked on:</td>
-<td>- Building simulation models of wind turbines and their subsystems</td>
+<td>- Research and development in field of digitalization of energy systems </td>
+<td></td>
+</tr>
+<tr>
+<tr>
+<td></td>
+<td>- Implementation of machine learning and system identification techniques in development of digital twins of wind turbines</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>- Finite elements simulations of complex machines and mechanisms including structural and material non linearities</td>
+<td>- Preparation of finite element simulation models including structural and material non linearities using ANSYS Mechanical</td>
 <td></td>
 </tr>
 <tr>
@@ -78,7 +82,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 </tr>
 <tr>
 <td>Tools:</td>
-<td>- Simpack, ANSYS, Matlab, Simulink</td>
+<td>- Simpack, Python, Matlab, Simulink, ANSYS</td>
 <td></td>
 </tr>
 <tr>
@@ -197,8 +201,6 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td><h4>Student Research Assistantships</h4></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td><strong>2016 - 2018 (12 Months)</strong></td>
@@ -277,9 +279,8 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 </tr>
 <tr>
 <td><h4>Education</h4></td>
-</tr>
-<tr>
-<td></td>
+
+
 </tr>
 <tr>
 <td></td>
@@ -352,14 +353,35 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td></td>
 </tr>
 <tr>
+<td><h4>Journal Publications</h4></td>
+</tr>
+<tr>
+<td colspan="3">Kamel, O., Kretschmer, M., Pfeifer, S., Luhmann, B., Hauptmann, S., & Bottasso, C. L. (2023). Data-driven Virtual Sensor for Online Loads Estimation of Drivetrain of Wind Turbines. In Forschung im Ingenieurwesen (Engineering Research). Springer. (Accepted for publication)
+</td>
+</tr>
+
+<tr>
+<td colspan="3">Kamel, O., Hauptmann, S., & Bottasso, C. L. (2022, May). <strong><a href="https://www.doi.org/10.1088/1742-6596/2265/3/032075">Estimation of Damage Equivalent Loads of Drivetrain of Wind Turbines using Machine Learning</a></strong>. In Journal of Physics: Conference Series (Vol. 2265, No. 3, p. 032075). IOP Publishing.
+</td>
+</tr>
+
+
+<tr>
 <td><h4>Conference Presentations</h4></td>
 </tr>
 <tr>
 </tr>
+
 <tr>
-<td>CADFEM ANSYS Simulation Conference</td>
-<td>Low-Frequency Vibro-Acoustic Analysis of a Wind Turbine Considering the Tonality</td>
-<td>Kassel, 2019</td>
+<td>The Science of Making Torque from Wind (TORQUE 2022)</td>
+<td><strong><a href="https://www.doi.org/10.1088/1742-6596/2265/3/032075">Estimation of Damage Equivalent Loads of Drivetrain of Wind Turbines using Machine Learning</a></strong></td>
+<td>Delft, The Netherlands, 2022</td>
+</tr>
+
+<tr>
+<td>Wind Energy Science Conference</td>
+<td><strong><a href="https://zenodo.org/record/7360067#.Y8P5W3aZOUk">Reduced Order Modeling of Wind Turbine Drivetrains by Neural Network</a></strong></td>
+<td>Hannover, Germany, 2021 (Online event)</td>
 </tr>
 <tr>
 <td>16th EAWE PhD Seminar</td>
@@ -367,10 +389,15 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td>Porto, Portugal, 2020 (Online event)</td>
 </tr>
 <tr>
-<td>Wind Energy Science Conference</td>
-<td>Reduced Order Modeling of Wind Turbine Drivetrains by Neural Networks</td>
-<td>Hannover, Germany, 2020 (Online event)</td>
+<td>CADFEM ANSYS Simulation Conference</td>
+<td>Low-Frequency Vibro-Acoustic Analysis of a Wind Turbine Considering the Tonality</td>
+<td>Kassel, 2019</td>
 </tr>
+
+
+
+
+
 <tr>
 <td><h4>Software Tools</h4></td>
 </tr>
@@ -380,16 +407,26 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <tr>
 <td></td>
 </tr>
-<tr>
-<td>ANSYS Mechanical</td>
-<td>:black_circle::black_circle::black_circle::black_circle::white_circle:</td>
-</tr>
+
 <tr>
 <td>Simpack</td>
 <td>:black_circle::black_circle::black_circle::black_circle::white_circle:</td>
 </tr>
 <tr>
 <td>Matlab</td>
+<td>:black_circle::black_circle::black_circle::black_circle::white_circle:</td>
+</tr>
+<tr>
+<td>Python</td>
+<td>:black_circle::black_circle::black_circle::black_circle::white_circle:</td>
+</tr>
+<tr>
+<td>Simulink</td>
+<td>:black_circle::black_circle::black_circle::white_circle::white_circle:</td>
+</tr>
+
+<tr>
+<td>ANSYS Mechanical</td>
 <td>:black_circle::black_circle::black_circle::black_circle::white_circle:</td>
 </tr>
 <tr>
@@ -400,14 +437,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td>MathCAD</td>
 <td>:black_circle::black_circle::black_circle::black_circle::white_circle:</td>
 </tr>
-<tr>
-<td>Simulink</td>
-<td>:black_circle::black_circle::black_circle::white_circle::white_circle:</td>
-</tr>
-<tr>
-<td>Python</td>
-<td>:black_circle::black_circle::black_circle::black_circle::white_circle:</td>
-</tr>
+
 <tr>
 <td>Solidworks</td>
 <td>:black_circle::black_circle::black_circle::black_circle::white_circle:</td>
