@@ -21,9 +21,10 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 
 <table>
 <tr>
-<th><h4>Professional Career and Internships</h4></th>
+<td><h4>Professional Career and Internships</h4></td>
+<td></td>
+<td></td>
 </tr>
-<tbody>
 <tr>
 <td><strong>May 2020 - Present</strong></td>
 <td><strong>PhD Candidate</strong></td>
@@ -497,7 +498,6 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <td>:black_circle::black_circle::black_circle::black_circle::white_circle:</td>
 <td></td>
 </tr>
-</tbody>
 </table>
 
 {:.wide}
