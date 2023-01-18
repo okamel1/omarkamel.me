@@ -23,17 +23,17 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 <table>
     <tr>
         <td>
-            <h4>Professional Career</h4>
+            <h3>Professional Career</h3>
         </td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>
-            <h5>May 2020 - Present</h5>
+            <h4>May 2020 - Present</h4>
         </td>
         <td>
-            <h5>PhD Candidate</h5>
+            <h4>PhD Candidate</h4>
         </td>
         <td></td>
     </tr>
@@ -57,10 +57,10 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td>
-            <h5>Jun 2018 - Present</h5>
+            <h4>Jun 2018 - Present</h4>
         </td>
         <td>
-            <h5>Research and Development Engineer</h5>
+            <h4>Research and Development Engineer</h4>
         </td>
         <td></td>
     </tr>
@@ -103,8 +103,6 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td></td>
     </tr>
     <!--- empty row -->
-
-    <!--- empty row -->
     <tr>
         <td></td>
         <td></td>
@@ -112,10 +110,10 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td>
-            <h5>Apr 2017 - Sep 2017</h5>
+            <h4>Apr 2017 - Sep 2017</h4>
         </td>
         <td>
-            <h5>Master Student</h5>
+            <h4>Master Student</h4>
         </td>
         <td></td>
     </tr>
@@ -152,10 +150,10 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td>
-            <h5>Feb 2015 - Sep 2015</h5>
+            <h4>Feb 2015 - Sep 2015</h4>
         </td>
         <td>
-            <h5>Control Systems and Instrumentations Engineer</h5>
+            <h4>Control Systems and Instrumentations Engineer</h4>
         </td>
         <td></td>
     </tr>
@@ -172,10 +170,10 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td>
-            <h5>Nov 2014 - Jan 2015</h5>
+            <h4>Nov 2014 - Jan 2015</h4>
         </td>
         <td>
-            <h5>Installation and Maintenance Engineer</h5>
+            <h4>Installation and Maintenance Engineer</h4>
         </td>
         <td></td>
     </tr>
@@ -185,8 +183,6 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td>Egypt</td>
     </tr>
     <!--- empty row -->
-
-
     <tr>
         <td></td>
         <td></td>
@@ -194,7 +190,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td>
-            <h4>Student Research Assistantships and Internships</h4>
+            <h3>Student Research Assistantships and Internships</h3>
         </td>
         <td></td>
         <td></td>
@@ -205,13 +201,12 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td></td>
         <td></td>
     </tr>
-
     <tr>
         <td>
-            <h5>Dec 2017 - Mar 2018</h5>
+            <h4>Dec 2017 - Mar 2018</h4>
         </td>
         <td>
-            <h5>Intern</h5>
+            <h4>Intern</h4>
         </td>
         <td></td>
     </tr>
@@ -238,10 +233,10 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td>
-            <h5>2016 - 2018 (12 Months)</h5>
+            <h4>2016 - 2018 (12 Months)</h4>
         </td>
         <td>
-            <h5>Student Research Assistant</h5>
+            <h4>Student Research Assistant</h4>
         </td>
         <td>Stuttgart, Germany</td>
     </tr>
@@ -268,10 +263,10 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td>
-            <h5>Apr 2018 - May 2018</h5>
+            <h4>Apr 2018 - May 2018</h4>
         </td>
         <td>
-            <h5>Student Research Assistant</h5>
+            <h4>Student Research Assistant</h4>
         </td>
         <td></td>
     </tr>
@@ -298,10 +293,10 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td>
-            <h5>Aug 2016 - Mar 2017</h5>
+            <h4>Aug 2016 - Mar 2017</h4>
         </td>
         <td>
-            <h5>Student Research Assistant</h5>
+            <h4>Student Research Assistant</h4>
         </td>
         <td></td>
     </tr>
@@ -328,10 +323,10 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td>
-            <h5>Jun 2011 - Aug 2011</h5>
+            <h4>Jun 2011 - Aug 2011</h4>
         </td>
         <td>
-            <h5>Intern</h5>
+            <h4>Intern</h4>
         </td>
         <td></td>
     </tr>
@@ -342,7 +337,6 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td></td>
         <td></td>
     </tr>
-
     <!--- empty row -->
     <tr>
         <td></td>
@@ -351,9 +345,8 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td>
-            <h4>Education</h4>
+            <h3>Education</h3>
         </td>
-
     </tr>
     <!--- empty row -->
     <tr>
@@ -363,10 +356,10 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td>
-            <h5>2015 - 2018</h5>
+            <h4>2015 - 2018</h4>
         </td>
         <td>
-            <h5>Master of Science</h5>
+            <h4>Master of Science</h4>
         </td>
         <td></td>
     </tr>
@@ -407,10 +400,10 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td>
-            <h5>2010 - 2014</h5>
+            <h4>2010 - 2014</h4>
         </td>
         <td>
-            <h5>Bachelor of Science in Mechanical Engineering</h5>
+            <h4>Bachelor of Science in Mechanical Engineering</h4>
         </td>
         <td></td>
     </tr>
@@ -436,7 +429,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td>
-            <h4>Journal Publications</h4>
+            <h3>Journal Publications</h3>
         </td>
     </tr>
     <tr>
@@ -453,22 +446,19 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
             Series (Vol. 2265, No. 3, p. 032075). IOP Publishing.
         </td>
     </tr>
-
     <!--- empty row -->
     <tr>
         <td></td>
         <td></td>
         <td></td>
     </tr>
-
     <tr>
         <td>
-            <h4>Conference Presentations</h4>
+            <h3>Conference Presentations</h3>
         </td>
     </tr>
     <tr>
     </tr>
-
     <tr>
         <td>The Science of Making Torque from Wind (TORQUE 2022)</td>
         <td><strong><a href="https://www.doi.org/10.1088/1742-6596/2265/3/032075">Estimation of Damage Equivalent Loads
@@ -498,10 +488,9 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td></td>
         <td></td>
     </tr>
-
     <tr>
         <td>
-            <h4>Invited Talks</h4>
+            <h3>Invited Talks</h3>
         </td>
     </tr>
     <tr>
@@ -516,7 +505,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td></td>
     </tr>
     <tr>
-        <td><h4>Software Tools</h4></td>
+        <td><h3>Software Tools</h3></td>
     </tr>
     <tr>
         <td>Simpack</td>
@@ -584,7 +573,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td>
-            <h4>Languages</h4>
+            <h3>Languages</h3>
         </td>
     </tr>
     <tr>
@@ -605,8 +594,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
 </table>
 
 
-{:.wide}
 
-<h4>Others</h4>
+#### Others
 
 - [Wind Energy](https://www.coursera.org/account/accomplishments/verify/YV466HVSFW2U): Online Coursera Course
