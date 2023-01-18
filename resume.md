@@ -103,6 +103,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td></td>
     </tr>
     <!--- empty row -->
+
     <tr>
         <td></td>
         <td></td>
@@ -183,6 +184,8 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td>Egypt</td>
     </tr>
     <!--- empty row -->
+
+
     <tr>
         <td></td>
         <td></td>
@@ -201,6 +204,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td></td>
         <td></td>
     </tr>
+
     <tr>
         <td>
             <h4>Dec 2017 - Mar 2018</h4>
@@ -334,9 +338,8 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td></td>
         <td><strong>thyssenkrupp Industrial Solutions</strong></td>
         <td>Egypt</td>
-        <td></td>
-        <td></td>
     </tr>
+
     <!--- empty row -->
     <tr>
         <td></td>
@@ -347,13 +350,10 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td>
             <h3>Education</h3>
         </td>
-    </tr>
-    <!--- empty row -->
-    <tr>
-        <td></td>
         <td></td>
         <td></td>
     </tr>
+
     <tr>
         <td>
             <h4>2015 - 2018</h4>
@@ -393,6 +393,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td>- Hilti-COMMAS Scholarship</td>
         <td>:trophy:</td>
     </tr>
+    <!--- empty row -->
     <tr>
         <td></td>
         <td></td>
@@ -440,18 +441,19 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
 
     <tr>
-        <td colspan="3">- Kamel, O., Hauptmann, S., & Bottasso, C. L. (2022, May). <strong><a
-                    href="https://www.doi.org/10.1088/1742-6596/2265/3/032075">Estimation of Damage Equivalent Loads of
+        <td colspan="3">- Kamel, O., Hauptmann, S., & Bottasso, C. L. (2022, May). <strong><a href="https://www.doi.org/10.1088/1742-6596/2265/3/032075">Estimation of Damage Equivalent Loads of
                     Drivetrain of Wind Turbines using Machine Learning</a></strong>. In Journal of Physics: Conference
             Series (Vol. 2265, No. 3, p. 032075). IOP Publishing.
         </td>
     </tr>
+
     <!--- empty row -->
     <tr>
         <td></td>
         <td></td>
         <td></td>
     </tr>
+
     <tr>
         <td>
             <h3>Conference Presentations</h3>
@@ -459,6 +461,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
     </tr>
+
     <tr>
         <td>The Science of Making Torque from Wind (TORQUE 2022)</td>
         <td><strong><a href="https://www.doi.org/10.1088/1742-6596/2265/3/032075">Estimation of Damage Equivalent Loads
@@ -488,6 +491,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td></td>
         <td></td>
     </tr>
+
     <tr>
         <td>
             <h3>Invited Talks</h3>
@@ -592,7 +596,6 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td></td>
     </tr>
 </table>
-
 
 
 #### Others
