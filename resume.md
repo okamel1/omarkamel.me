@@ -595,9 +595,26 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td>:black_circle::black_circle::black_circle::black_circle::white_circle:</td>
         <td></td>
     </tr>
+    <!--- empty row -->
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            <h3>Others</h3>
+        </td>
+
+    </tr>
+    <tr>
+        <td>Online Coursera Course</td>
+        <td><strong><a href="https://www.coursera.org/account/accomplishments/verify/YV466HVSFW2U">Wind Energy from DTU</a></strong></td>
+        <td></td>
+    </tr>
+
+
+
 </table>
 
 
-#### Others
-
-- [Wind Energy](https://www.coursera.org/account/accomplishments/verify/YV466HVSFW2U): Online Coursera Course
