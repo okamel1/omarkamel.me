@@ -443,7 +443,6 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
             <strong><a href="https://www.doi.org/10.1007/s10010-023-00615-4">Data-driven Virtual Sensor for Online Loads Estimation of Drivetrain of Wind Turbines</a></strong>. In Forschung im Ingenieurwesen (Engineering Research). Springer.
         </td>
     </tr>
-https://www.doi.org/10.1007/s10010-023-00615-4
     <tr>
         <td colspan="3">- Kamel, O., Hauptmann, S., & Bottasso, C. L. (2022, May). <strong><a href="https://www.doi.org/10.1088/1742-6596/2265/3/032075">Estimation of Damage Equivalent Loads of Drivetrain of Wind Turbines using Machine Learning</a></strong>. In Journal of Physics: Conference
             Series (Vol. 2265, No. 3, p. 032075). IOP Publishing.
