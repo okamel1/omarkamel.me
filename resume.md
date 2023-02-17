@@ -537,6 +537,10 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td>ANSYS Mechanical</td>
         <td>&#9899;&#9899;&#9899;&#9899;&#9898;</td>
     </tr>
+	<tr>
+        <td>LaTeX</td>
+        <td>&#9899;&#9899;&#9899;&#9899;&#9898;</td>
+    </tr>
     <tr>
         <td>Maple</td>
         <td>&#9899;&#9899;&#9899;&#9899;&#9898;</td>
@@ -549,11 +553,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     <tr>
         <td>Solidworks</td>
         <td>&#9899;&#9899;&#9899;&#9899;&#9898;</td>
-    </tr>
-    <tr>
-        <td>AutoCAD</td>
-        <td>&#9899;&#9899;&#9899;&#9898;&#9898;</td>
-    </tr>
+    </t
     <tr>
         <td>C++</td>
         <td>&#9899;&#9899;&#9899;&#9898;&#9898;</td>
@@ -567,11 +567,11 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td>&#9899;&#9899;&#9899;&#9898;&#9898;</td>
     </tr>
     <tr>
-        <td>LaTeX</td>
-        <td>&#9899;&#9899;&#9899;&#9899;&#9898;</td>
-    </tr>
-    <tr>
         <td>modeFrontier</td>
+        <td>&#9899;&#9899;&#9899;&#9898;&#9898;</td>
+    </tr>
+	<tr>
+        <td>AutoCAD</td>
         <td>&#9899;&#9899;&#9899;&#9898;&#9898;</td>
     </tr>
     <!--- empty row -->
