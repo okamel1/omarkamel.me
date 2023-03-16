@@ -438,7 +438,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
 	<tr>
         <td colspan="3">- Song, Z., Hackl C. M., Anand, A., Thommessen, A., Petzschmann, J., Kamel, O., Braunbehrens, R., Kaifel, A., Roos, C., Hauptmann, S. (2023).
-            <strong><a href="https://www.doi.org/XXXXXX">Digital Twins for the Future Power System: An Overview and A Future Perspective </a></strong>. In Sustainability. MDPI. (In Review).
+            <strong><a href="https://doi.org/10.3390/su15065259">Digital Twins for the Future Power System: An Overview and A Future Perspective </a></strong>. In Sustainability. MDPI. (In Review).
         </td>
     </tr>
     <tr>
