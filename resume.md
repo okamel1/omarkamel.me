@@ -438,16 +438,16 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
 	<tr>
         <td colspan="3">- Song, Z., Hackl C. M., Anand, A., Thommessen, A., Petzschmann, J., Kamel, O., Braunbehrens, R., Kaifel, A., Roos, C., Hauptmann, S. (2023).
-            <strong><a href="https://doi.org/10.3390/su15065259">Digital Twins for the Future Power System: An Overview and A Future Perspective </a></strong>. In Sustainability. MDPI. (In Review).
+            <strong><a href="https://doi.org/10.3390/su15065259">Digital Twins for the Future Power System: An Overview and A Future Perspective </a></strong>. Sustainability, 15(6), 5259.
         </td>
     </tr>
     <tr>
         <td colspan="3">- Kamel, O., Kretschmer, M., Pfeifer, S., Luhmann, B., Hauptmann, S., & Bottasso, C. L. (2023).
-            <strong><a href="https://www.doi.org/10.1007/s10010-023-00615-4">Data-driven Virtual Sensor for Online Loads Estimation of Drivetrain of Wind Turbines</a></strong>. In Forschung im Ingenieurwesen (Engineering Research). Springer.
+            <strong><a href="https://www.doi.org/10.1007/s10010-023-00615-4">Data-driven Virtual Sensor for Online Loads Estimation of Drivetrain of Wind Turbines</a></strong>. Forschung im Ingenieurwesen (Engineering Research). Springer.
         </td>
     </tr>
     <tr>
-        <td colspan="3">- Kamel, O., Hauptmann, S., & Bottasso, C. L. (2022, May). <strong><a href="https://www.doi.org/10.1088/1742-6596/2265/3/032075">Estimation of Damage Equivalent Loads of Drivetrain of Wind Turbines using Machine Learning</a></strong>. In Journal of Physics: Conference
+        <td colspan="3">- Kamel, O., Hauptmann, S., & Bottasso, C. L. (2022, May). <strong><a href="https://www.doi.org/10.1088/1742-6596/2265/3/032075">Estimation of Damage Equivalent Loads of Drivetrain of Wind Turbines using Machine Learning</a></strong>. Journal of Physics: Conference
             Series (Vol. 2265, No. 3, p. 032075). IOP Publishing.
         </td>
     </tr>
