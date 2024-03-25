@@ -86,9 +86,6 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td></td>
-    </tr>
-    <tr>
-        <td></td>
         <td>- Develop software tools for data analysis and visualization</td>
         <td></td>
     </tr>
@@ -105,7 +102,7 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
     </tr>
     <tr>
         <td>
-            <h4>Jun 2018 - Present</h4>
+            <h4>Jun 2018 - Dec 2023</h4>
         </td>
         <td>
             <h4>Research and Development Engineer</h4>
