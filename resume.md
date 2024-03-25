@@ -53,6 +53,51 @@ description: Omar Kamel, Resume, CV, Wind Energy, Finite Element Method, Computa
         <td></td>
     </tr>
     <!--- empty row -->
+	 <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            <h4>Jan 2024 - Present</h4>
+        </td>
+        <td>
+            <h4>Drivetrain Loads and Data Analyst</h4>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><strong><a href="https://www.envision-group.com/">Envision Energy</a></strong></td>
+        <td>Dortmund, Germany</td>
+    </tr>
+    <tr>
+        <td>Tasks and Responsibilities:</td>
+        <td>- Drive test and validation activities of drivetrains</td>
+        <td></td>
+    </tr>
+    <tr>
+    <tr>
+        <td></td>
+        <td>- Support the development of advanced analysis tools to capture and control the
+				interaction between wind turbine and drivetrain loads</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>- Develop software tools for data analysis and visualization</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>- Continuous fundamental research as a basis for optimizing the design process</td>
+        <td></td>
+    </tr>
+    <tr>
     <tr>
         <td></td>
         <td></td>
